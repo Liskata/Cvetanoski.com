@@ -1,0 +1,1 @@
+alert("zdavoo od java scirpts");
